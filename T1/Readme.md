@@ -1,2 +1,0 @@
--Trabalho 1
-Um dos programas acima pede para o usuário adivinhar um número secreto. Faça um programa que faz o contrário: pede para o usuário pensar em um número e depois chuta valores até acertar. Para cada chute do programa, o usuário deve responder se acertou ou se entá acima ou abaixo do valor secreto (por exemplo, digitando 0, 1 ou 2). O chute do programa deve ser um valor aleatório entre os valores que ainda são possíveis a cada chute. Esse é o T1.
